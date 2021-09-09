@@ -1,0 +1,36 @@
+/*rule-set #1: Everything within the body tag will have a pink background. */body {
+    background-color: pink;
+}
+/* 1 */ 
+.margins-padding{
+    border:3px skyblue;
+    margin-top: 100px;
+    margin-right: 255px;
+    margin-bottom: 200px;
+    margin-left: 140px;
+    padding: 20px 20px 20px 50px;
+}
+
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align:center;
+}
+/*this sets the background of the entire body*/
+body{
+    background-color: snow;
+}
+
+.example1{
+    height: 150px;
+    width: 50%;
+    background-color: tomato;
+}
+
+/* 4 */
+.border-style li{
+    margin: 5px;
+}
